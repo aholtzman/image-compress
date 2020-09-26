@@ -1,11 +1,11 @@
 {
-  "name": "make-small",
+  "name": "@adamholtzman/image-compress",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "bin": {
     "start": "bin/index.js",
-    "make-small": "bin/index.js"
+    "image-compress": "bin/index.js"
   },
   "keywords": [
     "CLI",

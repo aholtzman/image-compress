@@ -1,15 +1,15 @@
-# make-small
+# image-compress
 
 A little npm package to compress and optimize image files in a directory and sub directories for the command line.
 
 ## Usage
 
-In your terminal, cd into the directory/project with images you wish to compress then run ```npx make-small```
+In your terminal, cd into the directory/project with images you wish to compress then run ```npx @adamholtzman/image-compress```
 
-This will create a new directory named `comprressed` with all of the compressed images in the same directory format as the source.
+This will create a new directory named `compressed` with all of the compressed images in the same directory format as the source.
 
 
-Alternatively you can globally install with ```npm i -g make-small``` if you prefer not to use ```npx```
+Alternatively you can globally install with ```npm i -g @adamholtzman/image-compress``` if you prefer not to use ```npx```
 
 
 ## Related
