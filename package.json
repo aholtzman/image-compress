@@ -7,6 +7,11 @@
     "start": "bin/index.js",
     "make-small": "bin/index.js"
   },
+  "keywords": {
+    "CLI",
+    "image compression",
+    "optimization"
+  },
   "dependencies": {
     "compress-images": "^1.9.5",
     "esm": "^3.2.25",
