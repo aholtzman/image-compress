@@ -1,0 +1,15 @@
+{
+  "name": "make-small",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "start": "bin/index.js",
+    "make-small": "bin/index.js"
+  },
+  "dependencies": {
+    "compress-images": "^1.9.5",
+    "esm": "^3.2.25",
+    "pngquant-bin": "^6.0.0"
+  }
+}
