@@ -12,6 +12,11 @@
     "image compression",
     "optimization"
   ],
+  "bugs": "https://github.com/aholtzman/image-compress/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aholtzman/image-compress.git"
+  },
   "dependencies": {
     "compress-images": "^1.9.5",
     "esm": "^3.2.25",
